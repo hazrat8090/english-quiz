@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Which word best completes the sentence? I have a very _____ schedule today.",
+      "options": ["free", "busy", "slow", "empty"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Choose the correct form of the verb: She _____ to the market every day.",
+      "options": ["go", "going", "goes", "gone"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the synonym of the word 'happy'?",
+      "options": ["sad", "angry", "joyful", "tired"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Identify the correct spelling:",
+      "options": ["defanately", "definitely ", "definatley", "deffinitely"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        "He don't like coffee.",
+        "She doesn't likes coffee.",
+        "He doesn't like coffee.",
+        "He didn't likes coffee."
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Choose the correct word: The sun sets in the _____ every evening.",
+      "options": ["east", "west", "north", "south"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which word is an antonym of 'difficult'?",
+      "options": ["easy", "hard", "tough", "complex"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Choose the correct preposition: The cat is hiding _____ the table.",
+      "options": ["on", "in", "under", "between "],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": " Identify the correct sentence: ",
+      "options": [
+        "She can plays the guitar.",
+        "She can play the guitar.",
+        "She can playing the guitar.",
+        "She can played the guitar."
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What is the meaning of the word 'benevolent'?",
+      "options": ["mean", "kind", "selfish", "rude"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Choose the correct article: He is _____ honest man.",
+      "options": ["a", "an", "the", "some"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Which word is a synonym of 'large'?",
+      "options": ["tiny", "huge", "small", "little"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Identify the incorrect sentence:",
+      "options": [
+        "She enjoys reading books.",
+        "He is playing football.",
+        "They is going to school.",
+        "We are having dinner."
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Choose the correct verb tense: By the time you arrive, I _____ dinner.",
+      "options": [
+        "will be cooked",
+        "will have cooked",
+        "was cooked",
+        "am cooking"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Which word is an antonym of 'ancient'?",
+      "options": ["old", "modern ", "antique", "archaic"],
+      "correctOption": 1,
+      "points": 20
+    }
+  ]
+}
